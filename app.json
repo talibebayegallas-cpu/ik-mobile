@@ -1,0 +1,1 @@
+{"expo": {"name": "YourAppName", "slug": "your-app-slug", "version": "1.0.0", "platforms": ["ios", "android"], "permissions": ["CAMERA", "LOCATION", "FOCUS", "READ_EXTERNAL_STORAGE", "WRITE_EXTERNAL_STORAGE"], "ios": {"bundleIdentifier": "com.yourcompany.yourapp", "buildNumber": "1.0.0"}, "android": {"package": "com.yourcompany.yourapp", "versionCode": 1}}}
